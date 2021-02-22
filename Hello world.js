@@ -1,2 +1,3 @@
-letn a=Hello;
-print a
+let a="Hello";
+let b="World"
+console.log (a)
